@@ -1,2 +1,2 @@
 # GIS-Vizualizations
-Maps and visualizations I made using ArcGIS Pro Software and Geographic Information Systems (GIS)
+Maps and visualizations produced using ArcGIS Pro Software and Geographic Information Systems (GIS)
